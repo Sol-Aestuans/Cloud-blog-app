@@ -1,0 +1,9 @@
+{
+    "env":"prod",
+    "port":443,
+    "db": {
+        "name": "userBlogs"
+    },
+    "redis_host": "redisblogcache.vajsmm.0001.usw2.cache.amazonaws.com",
+    "redis_port": 6379
+}
